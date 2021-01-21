@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!doctype html>
+<html lang="en">
+
 <center>
 ![Cássio's github stats](https://github-readme-stats.vercel.app/api?username=cassiokineipe&show_icons=true&theme=tokyonight)
 
@@ -22,6 +26,6 @@ Here are some ideas to get you started:
 
 
 </center>
-
+</html>
 
 
